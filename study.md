@@ -13,3 +13,11 @@
   - ByteBuddy - 추천 (활용방법 정도 찾아보면 신기할듯)
   - ASM (비추천)
   - Javassist (비추천)
+
+#리플렉션
+- 스프링 Dependency Injection
+- Class<T> 리플렉션 API
+- 애노테이션과 리플렉션
+  - value 기본값, 상속 Inherited, annotation 의 정보를 가져와 비교
+- 클래스 정보 수정
+  - 
